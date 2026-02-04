@@ -1,3 +1,5 @@
+![Undertale: Cracked Logo](game_logo.png)
+
 # Welcome to the repository with data on the game Undertale: Cracked! 
 ### You won't find anything interesting in the files - it's just data that is used by the game (for example, when checking the current version).
 
